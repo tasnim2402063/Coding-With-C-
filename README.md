@@ -3,7 +3,9 @@
 Welcome to my repository! This space is dedicated to my growth as a programmer. I am currently solving logical, mathematical, and algorithmic challenges using **C and C++** across multiple competitive programming platforms.
 
 ## 📊 Platforms I Use
-* **CodeChef:** [smart_truth_52](https://www.codechef.com/users/smart_truth_52), [https://www.codechef.com/users/tasnim_2402063]
+* **CodeChef:** [https://www.codechef.com/users/tasu_2402063]
+* [https://www.codechef.com/users/tasnim_2402063],
+* [https://www.codechef.com/users/holy_wolves_15],
 * **Beecrowd:** [https://judge.beecrowd.com/en/profile/1226462]
 * **Toph:**  [https://toph.co/u/tasnimislam2402063]
 
